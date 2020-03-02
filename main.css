@@ -1,0 +1,32 @@
+.card {
+  margin: 1% auto; /*to get card in center;*/
+  border: 1px solid #ddd; /*widthofborder kindofborder colorofborder*/
+  width: 25%;
+  padding: 1%; /*to adjust inside the card*/
+  box-shadow: 0px 8px 8px 8px #000;
+  background-color: gold;
+  text-align: center;
+  font-style: italic;
+  font-size: x-large;
+  border-radius: 5% 5% 5% 5%;
+  /*looks good*/
+}
+a {
+  text-decoration: none;
+}
+.btn {
+  display: block;
+  background: rebeccapurple;
+  color: white;
+  padding: 1%;
+  text-align: center;
+  margin-top: 5%;
+}
+@media only screen and (min-width: 320px) and (max-width: 460px) {
+  .card {
+    /*widthofborder kindofborder colorofborder*/
+    width: 90%;
+
+    /*looks good*/
+  }
+}

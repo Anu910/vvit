@@ -1,0 +1,22 @@
+{
+  "basics": {
+    "name": "Anjana",
+    "role": "fresher",
+    "email": "nanjana910@gmail.com",
+    "mobile": " 9999999999",
+    "education": [
+      {
+        "degree": "SSC",
+        "percentage": "9.5"
+      },
+      {
+        "degree": "Inter",
+        "percentage": "9.5"
+      },
+      {
+        "degree": "BTECH",
+        "percentage": "9.5"
+      }
+    ]
+  }
+}
